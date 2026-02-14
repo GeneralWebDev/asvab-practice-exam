@@ -1,0 +1,431 @@
+[
+  {
+    "s": "General Science",
+    "q": "What is the basic unit of life?",
+    "o": [
+      "Cell",
+      "Atom",
+      "Molecule",
+      "Organ"
+    ],
+    "a": 0
+  },
+  {
+    "s": "General Science",
+    "q": "Which planet is known as the Red Planet?",
+    "o": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "a": 1
+  },
+  {
+    "s": "General Science",
+    "q": "What gas do plants absorb from the atmosphere?",
+    "o": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "a": 2
+  },
+  {
+    "s": "General Science",
+    "q": "What is the powerhouse of the cell?",
+    "o": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Golgi Body"
+    ],
+    "a": 2
+  },
+  {
+    "s": "General Science",
+    "q": "Which element has the chemical symbol 'O'?",
+    "o": [
+      "Gold",
+      "Osmium",
+      "Oxygen",
+      "Oganesson"
+    ],
+    "a": 2
+  },
+  {
+    "s": "Arithmetic Reasoning",
+    "q": "A shirt costs $45 and is on sale for 20% off. What is the sale price?",
+    "o": [
+      "$36",
+      "$40",
+      "$25",
+      "$9"
+    ],
+    "a": 0
+  },
+  {
+    "s": "Arithmetic Reasoning",
+    "q": "If a car travels 240 miles in 4 hours, what is its average speed?",
+    "o": [
+      "40 mph",
+      "50 mph",
+      "60 mph",
+      "80 mph"
+    ],
+    "a": 2
+  },
+  {
+    "s": "Arithmetic Reasoning",
+    "q": "A recipe needs 2/3 cup of sugar. How much for a triple batch?",
+    "o": [
+      "1 cup",
+      "1.5 cups",
+      "2 cups",
+      "2.5 cups"
+    ],
+    "a": 2
+  },
+  {
+    "s": "Arithmetic Reasoning",
+    "q": "John earns $12/hr. He works 40 hrs/week. What is his weekly pay?",
+    "o": [
+      "$400",
+      "$420",
+      "$480",
+      "$520"
+    ],
+    "a": 2
+  },
+  {
+    "s": "Arithmetic Reasoning",
+    "q": "A box has 144 items. If packed in groups of 12, how many groups?",
+    "o": [
+      "10",
+      "11",
+      "12",
+      "14"
+    ],
+    "a": 2
+  },
+  {
+    "s": "Word Knowledge",
+    "q": "'Benevolent' most nearly means:",
+    "o": [
+      "Hostile",
+      "Kind",
+      "Lazy",
+      "Wealthy"
+    ],
+    "a": 1
+  },
+  {
+    "s": "Word Knowledge",
+    "q": "'Obsolete' most nearly means:",
+    "o": [
+      "Modern",
+      "Outdated",
+      "Useful",
+      "Expensive"
+    ],
+    "a": 1
+  },
+  {
+    "s": "Word Knowledge",
+    "q": "'Pragmatic' most nearly means:",
+    "o": [
+      "Idealistic",
+      "Practical",
+      "Emotional",
+      "Artistic"
+    ],
+    "a": 1
+  },
+  {
+    "s": "Word Knowledge",
+    "q": "'Resilient' most nearly means:",
+    "o": [
+      "Fragile",
+      "Able to recover",
+      "Rigid",
+      "Transparent"
+    ],
+    "a": 1
+  },
+  {
+    "s": "Word Knowledge",
+    "q": "'Candid' most nearly means:",
+    "o": [
+      "Secretive",
+      "Honest",
+      "Fearful",
+      "Ambitious"
+    ],
+    "a": 1
+  },
+  {
+    "s": "Paragraph Comprehension",
+    "q": "Read: 'The Arctic tundra has permafrost year-round. Few trees grow there due to short seasons and frozen ground.' Why do few trees grow in the tundra?",
+    "o": [
+      "Too much rain",
+      "Short growing seasons and frozen ground",
+      "Too many animals",
+      "Air pollution"
+    ],
+    "a": 1
+  },
+  {
+    "s": "Paragraph Comprehension",
+    "q": "Read: 'Photosynthesis converts sunlight, water, and CO2 into glucose and oxygen. This process occurs in chloroplasts.' Where does photosynthesis occur?",
+    "o": [
+      "Mitochondria",
+      "Cell wall",
+      "Chloroplasts",
+      "Nucleus"
+    ],
+    "a": 2
+  },
+  {
+    "s": "Paragraph Comprehension",
+    "q": "Read: 'The company policy states all employees must complete safety training within 30 days of hire. Failure to comply results in suspension.' What happens if training is not completed?",
+    "o": [
+      "Promotion",
+      "Transfer",
+      "Suspension",
+      "Bonus reduction"
+    ],
+    "a": 2
+  },
+  {
+    "s": "Mathematics Knowledge",
+    "q": "What is the value of x in: 2x + 6 = 18?",
+    "o": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "a": 2
+  },
+  {
+    "s": "Mathematics Knowledge",
+    "q": "What is the area of a circle with radius 7? (Use pi=3.14)",
+    "o": [
+      "43.96",
+      "153.86",
+      "21.98",
+      "307.72"
+    ],
+    "a": 1
+  },
+  {
+    "s": "Mathematics Knowledge",
+    "q": "What is the square root of 144?",
+    "o": [
+      "10",
+      "11",
+      "12",
+      "14"
+    ],
+    "a": 2
+  },
+  {
+    "s": "Mathematics Knowledge",
+    "q": "Simplify: 3(2x - 4) + 5",
+    "o": [
+      "6x - 7",
+      "6x - 12",
+      "6x + 1",
+      "5x - 7"
+    ],
+    "a": 0
+  },
+  {
+    "s": "Mathematics Knowledge",
+    "q": "What is 15% of 200?",
+    "o": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "a": 1
+  },
+  {
+    "s": "Electronics Information",
+    "q": "What is the unit of electrical resistance?",
+    "o": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Watt"
+    ],
+    "a": 2
+  },
+  {
+    "s": "Electronics Information",
+    "q": "Which component stores electrical charge?",
+    "o": [
+      "Resistor",
+      "Capacitor",
+      "Inductor",
+      "Transistor"
+    ],
+    "a": 1
+  },
+  {
+    "s": "Electronics Information",
+    "q": "In a series circuit, what happens when one bulb burns out?",
+    "o": [
+      "Others get brighter",
+      "All go out",
+      "Nothing changes",
+      "Others dim"
+    ],
+    "a": 1
+  },
+  {
+    "s": "Electronics Information",
+    "q": "What does AC stand for?",
+    "o": [
+      "Active Current",
+      "Alternating Current",
+      "Amped Circuit",
+      "Auto Current"
+    ],
+    "a": 1
+  },
+  {
+    "s": "Auto/Shop Information",
+    "q": "What tool is used to measure torque?",
+    "o": [
+      "Wrench",
+      "Torque wrench",
+      "Pliers",
+      "Screwdriver"
+    ],
+    "a": 1
+  },
+  {
+    "s": "Auto/Shop Information",
+    "q": "In a 4-stroke engine, what are the four strokes?",
+    "o": [
+      "Push, Pull, Spin, Stop",
+      "Intake, Compression, Power, Exhaust",
+      "Start, Run, Idle, Stop",
+      "Mix, Burn, Push, Cool"
+    ],
+    "a": 1
+  },
+  {
+    "s": "Auto/Shop Information",
+    "q": "What does the alternator do in a car?",
+    "o": [
+      "Filters oil",
+      "Charges the battery",
+      "Cools the engine",
+      "Controls braking"
+    ],
+    "a": 1
+  },
+  {
+    "s": "Auto/Shop Information",
+    "q": "Which saw makes curved cuts?",
+    "o": [
+      "Table saw",
+      "Circular saw",
+      "Jigsaw",
+      "Miter saw"
+    ],
+    "a": 2
+  },
+  {
+    "s": "Mechanical Comprehension",
+    "q": "A lever with the fulcrum closer to the load requires:",
+    "o": [
+      "More effort",
+      "Less effort",
+      "Same effort",
+      "No effort"
+    ],
+    "a": 1
+  },
+  {
+    "s": "Mechanical Comprehension",
+    "q": "Which simple machine is a ramp?",
+    "o": [
+      "Lever",
+      "Wheel and axle",
+      "Inclined plane",
+      "Pulley"
+    ],
+    "a": 2
+  },
+  {
+    "s": "Mechanical Comprehension",
+    "q": "If two gears are meshed and the driver turns clockwise, the driven gear turns:",
+    "o": [
+      "Clockwise",
+      "Counterclockwise",
+      "Same direction",
+      "It stops"
+    ],
+    "a": 1
+  },
+  {
+    "s": "Mechanical Comprehension",
+    "q": "What happens to pressure when you decrease the area of a container but keep force the same?",
+    "o": [
+      "Decreases",
+      "Stays same",
+      "Increases",
+      "Becomes zero"
+    ],
+    "a": 2
+  },
+  {
+    "s": "Assembling Objects",
+    "q": "When assembling a puzzle, which piece connects point A on shape 1 to point B on shape 2 in a straight line?",
+    "o": [
+      "The shortest connector",
+      "The curved connector",
+      "The angled connector",
+      "No connector needed"
+    ],
+    "a": 0
+  },
+  {
+    "s": "Assembling Objects",
+    "q": "If you fold a flat cross-shaped pattern, what 3D shape do you get?",
+    "o": [
+      "Sphere",
+      "Cube",
+      "Cylinder",
+      "Pyramid"
+    ],
+    "a": 1
+  },
+  {
+    "s": "Assembling Objects",
+    "q": "Which shape results from connecting a circle at its center to a square at its corner?",
+    "o": [
+      "Circle overlapping square corner",
+      "Circle inside square",
+      "Square inside circle",
+      "Shapes side by side"
+    ],
+    "a": 0
+  },
+  {
+    "s": "Assembling Objects",
+    "q": "A flat pattern shaped like a fan (sector) rolls into which shape?",
+    "o": [
+      "Cube",
+      "Cone",
+      "Cylinder",
+      "Sphere"
+    ],
+    "a": 1
+  }
+]
